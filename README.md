@@ -1,4 +1,3 @@
-Brisk Logo Menu
 # 📚 LLM Semantic Book Recommender
 
 ## 🚀 Overview
